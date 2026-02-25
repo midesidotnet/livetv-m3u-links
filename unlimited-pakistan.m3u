@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | GEO ENTERTAINEMNT
+https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | GREEN ENTERTAINMENT
+https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | HUM ENTERTAINMENT
+https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | ARY DIGITAL
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | BOL ENTERTAINMENT
+https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | EXPRESS ENTERTAINMENT
+https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | AAJ_ENTERTAINMENT
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN ENTERTAINMENT",PK | SAB ENTERTAINMENT
+https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mesiGG76gww2WnpFVUFbMz-s2d4IjJJVhDqJuCVscqKLY=s900-c-k-c0x00ffffff-no-rj",القرآن الكريم
+https://ml-pull-dvc-myco.io:2096/SAUDI_QURAN/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ7lVxi4OEJBoIncag_OlsK093xN2Gy7HCnsNAxFqG4bbZtONHlFAs_pc&s=10",قناة السنة النبوية
+https://ml-pull-dvc-myco.io:2096/SAUDI_SUNNAH/index.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/madani-channel-live.webp?id=29",مدنی چینل اُردو
+https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVycW1QutYTcaEveU7rS4Lg8W3IIYv-1eC7GQ7G-QmWg&s=10",Peace Tv Urdu
+https://ml-pull-dvc-myco.io:2096/PEACETV-URDU/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHo0GDjtFCGpKsL2LkDIiDJeJdvFA9LDD7EqpkDZ34g&s=10",Peace  English
+https://ml-pull-dvc-myco.io:2096/PEACETV-ENG/index.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1738840613135.webp?id=59",HUM TV HD
+https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-logo="https://e.pba.org.pk/Logos/dccdcd5e-d089-42b5-9b25-dbb60f35dab8__Green-Ent-Logo.png",GREEN ENT HD
+https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/express-entertainment-live.webp?id=25",EXPRESS ENT HD
+https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/aaj-entertainment-live.webp?id=81",AAJ ENT HD
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-logo="https://e.pba.org.pk/Logos/d621e72f-6f77-4c43-a5d4-f9e0383884d9__MunTV.png",MUN TV HD
+https://ml-pull-dvc-myco.io:2096/MUN_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/bol-entertainment-live.webp?id=43",BOL ENT HD
+https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686044497-logo.webp?id=46",SAB ENT HD
+https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ary-digital-live-logo.webp?id=38",ARY DIGITAL HD
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/aaj-news-live.webp?id=29",AAJ NEWS HD
+https://ml-pull-dvc-myco.io:2096/AAJ_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/307-3074320_such-tv-live-streaming-such-tv-is-new-news-channel-ghazi-abbas.png",SUCH NEWS HD
+https://ml-pull-dvc-myco.io:2096/SUCH_NEWS/index.m3u8
+#EXTINF:-1,ABB TAK NEWS
+https://ml-pull-dvc-myco.io:2096/ABBTAK_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1723464325328.webp?id=60",CHANNEL 5
+https://ml-pull-dvc-myco.io:2096/CHANNEL_5_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6fclHW3qz21v9RUJ21Sd2SoAdsfG1Hd0qp72pznNw9A&s=10",TIME NEWS
+https://ml-pull-dvc-myco.io:2096/TIME_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/neo-tv-live.webp?id=42",NEO NEWS HD
+https://ml-pull-dvc-myco.io:2096/NEO_NEWS/index.m3u8
+#EXTINF:-1,Baby Tv
+https://ml-pull-dvc-myco.io:2096/BABY_TV/index.m3u8
+#EXTINF:-1 group-title="Movies",HBO 2
+https://ml-pull-dvc-myco.io:2096/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKu8SDvuiZ32x-dah30WE2YyWwhfZOMPnQpQJehF3HdWK9h9qSfanLOlv&s=10" group-title="Movies",HBO 3
+https://ml-pull-dvc-myco.io:2096/HBO_3/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlplIfZiMIKblqFoMkigq13v-x-RSERAVFnFDKwyG1g&s=10",GEO SUPER
+https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
