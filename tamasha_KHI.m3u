@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ARY News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1684242189-logo.webp?id=91",KHI-ARY News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/ARYnews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="NAIZA Fights Live-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1734528338327.webp?id=70",KHI-NAIZA Fights Live
+https://cdn05khi.tamashaweb.com:8090/jazzauth/MMA-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="PTV News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750321735602.webp?id=32",KHI-PTV News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Geo News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/geo-news-live.webp?id=45",KHI-Geo News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Digital Pakistan Dispatch-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1755087012153.webp?id=97",KHI-Digital Pakistan Dispatch
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Digital-pak-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="PTV Sports-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750321954030.webp?id=95",KHI-PTV Sports
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="ARY Digital-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ary-digital-live-logo.webp?id=59",KHI-ARY Digital
+https://cdn05khi.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Tamasha News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1744124970890.webp?id=84",KHI-Tamasha News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Tamasha-News-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="PTV Home-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750321510303.webp?id=45",KHI-PTV Home
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Geo Entertainment-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/geo-entertainment-live.webp?id=73",KHI-Geo Entertainment
+https://cdn05khi.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Samaa TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/samaa-tv-live.webp?id=78",KHI-Samaa TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/samaaTV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440-logo.webp?id=85",KHI-Eurosport
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN HD-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1749124554903.webp?id=24",KHI-CGTN HD
+https://cdn05khi.tamashaweb.com:8087/jazzauth/CgtnHD-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="PTV World-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750322208140.webp?id=46",KHI-PTV World
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVWorld-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN Documentary HD-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1749124897580.webp?id=29",KHI-CGTN Documentary HD
+https://cdn05khi.tamashaweb.com:8087/jazzauth/CgtnDocumentary-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery HD-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1749016875362.webp?id=78",KHI-Discovery HD
+https://cdn05khi.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Green Entertainment-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1702552123-logo.webp?id=24",KHI-Green Entertainment
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Hum News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-News-Channel-logo.webp?id=34",KHI-Hum News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/humnews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Hum TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1738840613135.webp?id=52",KHI-Hum TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Inplus Pakistan-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1720441424490.webp?id=20",KHI-Inplus Pakistan
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Inplus-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="BOL Entertainment-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/bol-entertainment-live.webp?id=17",KHI-BOL Entertainment
+https://cdn05khi.tamashaweb.com:8087/jazzauth/BolEntertainment-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="PTV National-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750322366525.webp?id=90",KHI-PTV National
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVNational-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Express News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/express-news-live.webp?id=50",KHI-Express News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/expressnews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Tensports-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ten-sports-hd-logo.webp?id=22",KHI-Tensports
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Hum Masala-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1738840592660.webp?id=12",KHI-Hum Masala
+https://cdn05khi.tamashaweb.com:8087/jazzauth/hummasala-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="AAJ News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/aaj-news-live.webp?id=63",KHI-AAJ News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AajNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1706163791-logo.webp?id=46",KHI-Al Jazeera
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AL-Jazeera-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Dawn News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/dawn-news-live.webp?id=25",KHI-Dawn News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/DawnNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="ARY Zindagi-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ary-zindagi-live-logo.webp?id=83",KHI-ARY Zindagi
+https://cdn05khi.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Express Entertainment-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/express-entertainment-live.webp?id=87",KHI-Express Entertainment
+https://cdn05khi.tamashaweb.com:8087/jazzauth/ExpressEntertainment-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Hum Sitaray-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-Sitaray-Channel-logo.webp?id=65",KHI-Hum Sitaray
+https://cdn05khi.tamashaweb.com:8087/jazzauth/HumSitaray-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/cnn-news-live.webp?id=30",KHI-CNN
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Livecnn-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="NEO News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/neo-tv-live.webp?id=60",KHI-NEO News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/NeoNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Set Entertainment-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1730720761397.webp?id=23",KHI-Set Entertainment
+https://cdn05khi.tamashaweb.com:8087/jazzauth/SetEntertainment-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/cartoon-network-live.webp?id=76",KHI-Cartoon Network
+https://cdn05khi.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="BOL News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/bol-news-live.webp?id=30",KHI-BOL News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/BolNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Minimax-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1702633459-logo.webp?id=46",KHI-Minimax
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Minimax-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Aan TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1681977574-logo.webp?id=29",KHI-Aan TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="TV One-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/tv-one-live.webp?id=88",KHI-TV One
+https://cdn05khi.tamashaweb.com:8087/jazzauth/TVOne-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="ARUJ-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/aruj-live.webp?id=79",KHI-ARUJ
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AroojTV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Suno News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1709545345-logo.webp?id=66",KHI-Suno News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Suno_News-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="GTV News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/gtv-new-logo.webp?id=13",KHI-GTV News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/GTVNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Sab TV Pakistan-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686044497-logo.webp?id=80",KHI-Sab TV Pakistan
+https://cdn05khi.tamashaweb.com:8087/jazzauth/SabTV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="ABN News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912075-logo.webp?id=71",KHI-ABN News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/ABNnews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Madani Channel-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/madani-channel-live.webp?id=93",KHI-Madani Channel
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Madni-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="GNN-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/gnn-live.webp?id=98",KHI-GNN
+https://cdn05khi.tamashaweb.com:8087/jazzauth/GNN-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="FILMAX-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/filmax-live.webp?id=21",KHI-FILMAX
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Filmax-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Kashish-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/kashish-live.webp?id=74",KHI-Kashish
+https://cdn05khi.tamashaweb.com:8087/jazzauth/KashishTV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="PTV Bolan-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750322527745.webp?id=64",KHI-PTV Bolan
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVBolan-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Sindh TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/sindh-tv-live.webp?id=10",KHI-Sindh TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/sindhTV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="City 21 News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1719490357715.webp?id=33",KHI-City 21 News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/city21-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Baby TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/baby-tv-live.webp?id=97",KHI-Baby TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/BabyTV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="365 TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1745518926422.webp?id=58",KHI-365 TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/365News-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Movie One-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/movie-one-live.webp?id=66",KHI-Movie One
+https://cdn05khi.tamashaweb.com:8087/jazzauth/MovieOne-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Aur Life HD-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1745518766547.webp?id=48",KHI-Aur Life HD
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AurLife-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="A PLUS-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/a-plus-live.webp?id=38",KHI-A PLUS
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Aplus-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="LTN Family (Previously Filmazia)-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ltn-family-live.webp?id=92",KHI-LTN Family (Previously Filmazia)
+https://cdn05khi.tamashaweb.com:8087/jazzauth/LTNFamily-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="KTN News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ktn-news-live.webp?id=58",KHI-KTN News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/ktnNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="24 NEWS HD-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/channel-24-live.webp?id=30",KHI-24 NEWS HD
+https://cdn05khi.tamashaweb.com:8087/jazzauth/24News-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Such TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/such-tv-live.webp?id=29",KHI-Such TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/SachTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Discover Pakistan-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/discover-pakistan-live-logo.webp?id=15",KHI-Discover Pakistan
+https://cdn05khi.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Roze News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/roze-news-live.webp?id=98",KHI-Roze News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/RozNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Play TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/play-tv-live.webp?id=15",KHI-Play TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/play-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="AAJ Entertainment-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/aaj-entertainment-live.webp?id=31",KHI-AAJ Entertainment
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AajEntertainment-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Animal Planet-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1719302840733.webp?id=15",KHI-Animal Planet
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Lahore Rang-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/lahore-rang-logo.webp?id=20",KHI-Lahore Rang
+https://cdn05khi.tamashaweb.com:8087/jazzauth/LahoreRung-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="News One-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/news-one-live.webp?id=39",KHI-News One
+https://cdn05khi.tamashaweb.com:8087/jazzauth/NewsOne-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Mehran TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/mehran-tv-logo.webp?id=10",KHI-Mehran TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/MehranTV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Public News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/public-news-live.webp?id=58",KHI-Public News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PublicTV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="A1TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/a1-tv-live.webp?id=34",KHI-A1TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/A1TV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="AVT Khyber TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1685537734-logo.webp?id=71",KHI-AVT Khyber TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/AVTkhyberTV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Channel 5-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/TMSH-1723464325328.webp?id=68",KHI-Channel 5
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Channel5-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="CITY 42-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/city-42-live.webp?id=34",KHI-CITY 42
+https://cdn05khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Metro 1 News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/metro-1-news-live.webp?id=21",KHI-Metro 1 News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Metro1News-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Sindh TV News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/sindh-tv-news-live.webp?id=57",KHI-Sindh TV News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/SindhNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Time News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/time-news-live.webp?id=61",KHI-Time News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/TimeNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Rohi-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/rohi-live.webp?id=35",KHI-Rohi
+https://cdn05khi.tamashaweb.com:8087/jazzauth/RohiTV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Khyber News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1685537412-logo.webp?id=99",KHI-Khyber News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/KhyberNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="K21 News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/k21-news-live.webp?id=51",KHI-K21 News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/K21-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Saudi Quran Makkah TV HD-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/saudi-quran-makkah-tv-hd-live.webp?id=38",KHI-Saudi Quran Makkah TV HD
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Saudi Sunnah Madinah TV HD-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/saudi-sunnah-madinah-tv-hd-live.webp?id=94",KHI-Saudi Sunnah Madinah TV HD
+https://cdn05khi.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Waseb-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/waseb-live.webp?id=66",KHI-Waseb
+https://cdn05khi.tamashaweb.com:8087/jazzauth/waseeb-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="City 41-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/city41-live.webp?id=65",KHI-City 41
+https://cdn05khi.tamashaweb.com:8087/jazzauth/city41News-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Mashriq TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/mashriq-tv-live.webp?id=83",KHI-Mashriq TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/mashriqtv-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="DW English-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/DW-english-live.webp?id=83",KHI-DW English
+https://cdn05khi.tamashaweb.com:8087/jazzauth/DWNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Kohenoor TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/kohenoor-tv-live.webp?id=91",KHI-Kohenoor TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/KohinoorTV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="8XM-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/8xm-live.webp?id=35",KHI-8XM
+https://cdn05khi.tamashaweb.com:8087/jazzauth/8xm-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="KTN Entertainment-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/ktn-entertainment-live.webp?id=79",KHI-KTN Entertainment
+https://cdn05khi.tamashaweb.com:8087/jazzauth/ktnEntertainment-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Apna Channel-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/apna-tv-live.webp?id=94",KHI-Apna Channel
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Apna-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Abb Takk News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/abb-takk-news-live.webp?id=80",KHI-Abb Takk News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/abbtak-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Jalwa TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/jalwa-tv-live.webp?id=100",KHI-Jalwa TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/jalwa-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="SEE TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/see-tv-live.webp?id=63",KHI-SEE TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/seeTV-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Champion TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/champion-tv-live.webp?id=58",KHI-Champion TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/championtv-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Kay2 TV-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1685535127-logo.webp?id=99",KHI-Kay2 TV
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Kay2-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Pashto 1-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/HUM-Pashto-Channel-logo.webp?id=76",KHI-Pashto 1
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Pashto1-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Aik News-KHI" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/AIKNEWS-LOGO.webp?id=40",KHI-Aik News
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PNN-abr/playlist.m3u8
